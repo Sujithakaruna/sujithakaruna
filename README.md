@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/sujithakaruna/sujithakaruna/output/snake.svg" alt="Snake animation" />
 
 ###
 
